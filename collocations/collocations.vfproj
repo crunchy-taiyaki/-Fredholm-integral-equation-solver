@@ -26,5 +26,15 @@
 	<Files>
 		<Filter Name="Header Files" Filter="fi;fd;h;inc"/>
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
-		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl"/></Files>
+		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
+		<File RelativePath=".\bernulli_ module.f90"/>
+		<File RelativePath=".\collocations.f90"/>
+		<File RelativePath=".\constants.f90"/>
+		<File RelativePath=".\gauss_module.f90"/>
+		<File RelativePath=".\gauss_parameters.f90"/>
+		<File RelativePath=".\input_functions.f90"/>
+		<File RelativePath=".\legendre_module.f90"/>
+		<File RelativePath=".\main.f90"/>
+		<File RelativePath=".\precision.f90"/>
+		<File RelativePath=".\SLAU_solver.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>
